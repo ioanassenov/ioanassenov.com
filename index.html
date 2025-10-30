@@ -37,7 +37,11 @@ title: "Ioan Assenov"
   <h2>Advanced Coursework</h2>
   <div class="course-list">
     {% for item in site.data.courses %}
-      {% include course.html number=item.number coursetitle=item.coursetitle instructor=item.instructor %}
+      {% include course.html
+        number=item.number
+        coursetitle=item.coursetitle
+        instructor=item.instructor
+      %}
     {% endfor %}
   </div>
 </section>
