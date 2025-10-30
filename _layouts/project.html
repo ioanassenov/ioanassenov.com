@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="project">
+  <header class="project__header">
+    <h1>{{ page.title }}</h1>
+    {% if page.hero %}
+      <img class="project__hero" src="{{ page.hero | relative_url }}" alt="{{ page.title }}" width="50%">
+    {% endif %}
+    {% if page.skills %}
+      <p class="project__tags">{{ page.skills | join: " · " }}</p>
+    {% endif %}
+  </header>
+
+  <div class="project__content">
+    {{ content }}
+  </div>
+
+  <p><a href="{{ '/experiences/' | relative_url }}">← All projects</a></p>
+</article>

@@ -1,0 +1,14 @@
+title: "Ioan Assenov"
+description: "Portfolio & projects"
+url: ""
+baseurl: ""
+permalink: pretty
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+collections:
+  experiences:
+    output: true                # generate standalone pages
+    permalink: /experiences/:slug/ # make links pretty

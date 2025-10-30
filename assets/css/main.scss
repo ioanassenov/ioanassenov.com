@@ -1,0 +1,26 @@
+---
+---
+
+@use "layout/navbar";
+@use "layout/footer";
+@use "components/hero";
+@use "components/card";
+
+:root{
+  --bg:#0e0f12;
+  --text:#e8eaed;
+  --muted:#b4b7bd;
+  --accent:#64a2df;
+  --card:#15171c;
+  --border:#23262d;
+}
+
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji"}
+a{color:var(--accent);text-decoration:none}
+.container{max-width:1100px;margin:0 auto;padding:2rem 1.25rem}
+
+h2{font-size:2rem;margin:2rem 0 1rem}
+
+.course-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem}
+.course{background:var(--card);border:1px solid var(--border);border-radius:1rem;padding:1rem}

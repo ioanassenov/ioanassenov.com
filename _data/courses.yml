@@ -1,0 +1,11 @@
+- number: "ME 440"
+  instructor: "Dr. Bogdan Epureanu"
+  coursetitle: "Advanced Dynamics"
+
+- number: "ROB 535"
+  instructor: "Dr. Maani Ghafari"
+  coursetitle: "Self driving vehicles"
+
+- number: "ME 452"
+  instructor: "Dr. Kazuhiro Saito"
+  coursetitle: "Design for manufacturability"
