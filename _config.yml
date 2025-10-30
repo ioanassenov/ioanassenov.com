@@ -10,5 +10,5 @@ plugins:
 
 collections:
   experiences:
-    output: true                # generate standalone pages
+    output: true # generate standalone pages
     permalink: /experiences/:slug/ # make links pretty
