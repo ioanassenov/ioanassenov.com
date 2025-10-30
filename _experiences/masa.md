@@ -10,4 +10,4 @@ layout: project
 # Michigan Aeronautical Science Association (MASA)
 
 #### This page is coming soon!
-[__Go to home page ➡__](/)
+[← Go to home page](/)
