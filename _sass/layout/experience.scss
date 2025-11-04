@@ -59,14 +59,14 @@
     align-items: center;
     max-width: 30%;
 }
-.embed__gallery-item > img {
-    border-radius: 0.5rem;
-    max-width: 100%;
-}
 
 .embed__gallery-item:hover {
     cursor: pointer;
     transition: 0.1s ease-in-out;
-    margin: -0.5% -0.5%;
-    max-width: 31%;
+    transform: scale(1.05);
+}
+
+.embed__gallery-item > img {
+    border-radius: 0.5rem;
+    max-width: 100%;
 }

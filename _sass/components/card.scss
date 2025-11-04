@@ -20,3 +20,24 @@
 .card-body{padding:1rem}
 .card h3{margin:.25rem 0 .5rem}
 .card p{color:var(--muted);margin:0 0 .75rem}
+
+.btn__learnmore{
+    transition: 0.05s ease-in-out;
+    display:inline-block;
+    padding:.65rem 1rem;
+    border-radius:.8rem;
+    background:var(--accent);
+    color:#001b18;
+    font-weight:700
+}
+
+.btn__learnmore:hover {
+    transform: scale(1.05);
+    display:inline-block;
+    padding:.65rem 1rem;
+    border-radius:.8rem;
+    background:var(--accent);
+    color:#001b18;
+    font-weight:700;
+    box-shadow: 0 0 10px 0.5px rgba(141, 186, 231, 0.4); /* Horizontal, Vertical, Blur, Spread, Color */
+}
