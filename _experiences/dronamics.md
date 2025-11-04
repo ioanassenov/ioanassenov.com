@@ -4,7 +4,7 @@ summary: "Intern on the structural engineering team at DRONAMICS, a Bulgaria‑b
 skills: ["Dynamics", "Statics", "Simulink", "MATLAB"]
 hero: "/assets/img/projects/dronamics/dronamics-hero.jpg"
 date: 2024-07-01
-layout: project
+layout: experience
 ---
 
 # Unmanned Aircraft Landing Gear Dynamicist

@@ -4,7 +4,7 @@ summary: "Research assistant at U‑M Vibrations and Acoustics under Dr. Kenn Ol
 skills: []
 hero: "/assets/img/projects/mems/laser.jpg"
 date: 2025-07-01
-layout: project
+layout: experience
 ---
 
 # Work on Applied Microsystems for Medical Devices

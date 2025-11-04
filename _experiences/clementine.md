@@ -4,7 +4,7 @@ summary: "Member of the Michigan Aeronautical Science Association for 2.5 years,
 skills: []
 hero: "/assets/img/projects/masa/ioanclem.jpg"
 date: 2023-07-01
-layout: project
+layout: experience
 ---
 
 # Michigan Aeronautical Science Association (MASA)
