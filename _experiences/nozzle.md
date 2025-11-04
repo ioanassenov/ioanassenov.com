@@ -19,7 +19,7 @@ When I first took on the role of project lead for the ME-5 rocket engine nozzle,
 
 
 <div class="embed left-aligned">
-    <img src="{{ '/assets/img/projects/nozzle/final.png' | relative_url }}" width="210rem" alt="Exploded view of final design"/>
+    <img src="{{ '/assets/img/projects/nozzle/final.png' | relative_url }}" width="63%" alt="Exploded view of final design"/>
     <p class="embed__caption">Exploded view of final nozzle design.</p>
 </div>
 
@@ -40,31 +40,31 @@ Weeks later, standing next to the finished engine on the test stand, the green c
     </div>
     <div class="embed__gallery-item">
         <img src="{{ '/assets/img/projects/nozzle/flangebore.jpg' | relative_url }}" alt="Exploded view of final design"/>
-        <p class="embed__caption">Exploded view of final nozzle design.</p>
+        <p class="embed__caption">Beginning of nozzle flange barrel bore.</p>
     </div>
     <div class="embed__gallery-item">
         <img src="{{ '/assets/img/projects/nozzle/weldwarp.jpg' | relative_url }}" alt="Exploded view of final design"/>
-        <p class="embed__caption">Exploded view of final nozzle design.</p>
+        <p class="embed__caption">Nozzle flange visibly warped after welding.</p>
     </div>
     <div class="embed__gallery-item">
         <img src="{{ '/assets/img/projects/nozzle/postops.jpg' | relative_url }}" alt="Exploded view of final design"/>
-        <p class="embed__caption">Exploded view of final nozzle design.</p>
+        <p class="embed__caption">Post welding operation fix of the welding with graphite insert.</p>
     </div>
     <div class="embed__gallery-item">
         <img src="{{ '/assets/img/projects/nozzle/rtv.jpg' | relative_url }}" alt="Exploded view of final design"/>
-        <p class="embed__caption">Exploded view of final nozzle design.</p>
+        <p class="embed__caption">Interior of nozzle coated in RTV in preparation for insert installation.</p>
     </div>
     <div class="embed__gallery-item">
         <img src="{{ '/assets/img/projects/nozzle/complete.jpg' | relative_url }}" alt="Exploded view of final design"/>
-        <p class="embed__caption">Exploded view of final nozzle design.</p>
+        <p class="embed__caption">Completed nozzle with ablative extension installed.</p>
     </div>
     <div class="embed__gallery-item">
         <img src="{{ '/assets/img/projects/nozzle/installed.jpg' | relative_url }}" alt="Exploded view of final design"/>
-        <p class="embed__caption">Exploded view of final nozzle design.</p>
+        <p class="embed__caption">Nozzle integrated with the engine (ME-5).</p>
     </div>
     <div class="embed__gallery-item">
         <img src="{{ '/assets/img/projects/nozzle/aftermath.jpg' | relative_url }}" alt="Exploded view of final design"/>
-        <p class="embed__caption">Exploded view of final nozzle design.</p>
+        <p class="embed__caption">Nozzle after hard start of rocket engine, the high pressure ripped the bolts out of place.</p>
     </div>
 </div>
 ___
