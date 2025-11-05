@@ -17,16 +17,17 @@
 }
 
 .embed {
-    float: left;
+    float: center;
     margin-right: 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 33%;
     position: relative;
+    margin: 0 auto;
 }
 
-.embed left-aligned {
+.embed.left-aligned {
     float: left;
 }
 
