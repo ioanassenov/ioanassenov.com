@@ -1,7 +1,7 @@
 ---
 title: "Rocket Engine Nozzle Project Lead"
 summary: "I was the project lead for the nozzle of MASA’s 12.5kN RP-1/LOx engine, ME-5. I owned the project over its entire course from initial ideation to its ultimate integration with the engine."
-skills: []
+skills: ["CAD", "FEA", "Structural Analysis", "Thermal Analysis", "Manual Machining"]
 hero: "/assets/img/projects/nozzle/nozzleioan.jpg"
 date: 2024-05-01
 layout: experience
